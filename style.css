@@ -10,3 +10,22 @@
 label{
     color: white;
 }
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+label{
+    font-family: 'Roboto Mono', monospace;
+}
+#button{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+p#error{
+    color: white;
+}
+footer p{
+    color: wheat;
+    position: relative;
+}
+button.btn{
+    background: white;
+}
