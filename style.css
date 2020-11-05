@@ -19,7 +19,7 @@ label{
 #button{
     font-family: 'Roboto Condensed', sans-serif;
 }
-p#error{
+.error{
     color: white;
 }
 footer p{
@@ -28,4 +28,22 @@ footer p{
 }
 button.btn{
     background: white;
+}
+#usererror{
+    color: white;
+}
+#passworderror{
+    color: white;
+}
+#passwordautherror{
+    color: white;
+}
+#emailerror{
+    color: white;
+}
+#securityquestionerror{
+    color: white;
+}
+p#error{
+    color: white;
 }
